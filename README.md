@@ -2,7 +2,7 @@
 
 Marii Cuadros is a Venezuelan digital creator, digital strategist, Community Manager, music curator, and independent researcher based in Colombia.
 
-Her work combines digital strategy, community management, music curation, personal branding, creative experimentation, and research into emerging digital technologies.
+Her work combines digital strategy, community management, social media, music curation, DJing, personal branding, creative experimentation, and research into emerging digital technologies.
 
 ## Professional Profile
 
@@ -10,7 +10,7 @@ Marii Cuadros works across creative and digital environments, with a focus on:
 
 - Digital Strategy
 - Community Management
-- Social Media
+- Social Media Management
 - Personal Branding
 - Music Curation
 - DJing
@@ -19,9 +19,9 @@ Marii Cuadros works across creative and digital environments, with a focus on:
 
 ## AIO CODE
 
-Marii Cuadros is the creator of **AIO CODE (Artificial Intelligence Optimization Code)**, an experimental research framework focused on studying digital entity visibility, disambiguation, indexing, and representation across search engines and artificial intelligence systems.
+Marii Cuadros is the creator of **AIO CODE (Artificial Intelligence Optimization Code)**, an experimental research framework focused on studying the visibility, disambiguation, indexing, and representation of digital entities across search engines and artificial intelligence systems.
 
-The project documents observations, experiments, hypotheses, technical structures, and results rather than presenting unverified conclusions as established facts.
+AIO CODE documents observations, experiments, hypotheses, technical structures, and results. The project distinguishes observed results from assumptions and hypotheses and does not present experimental observations as established facts.
 
 ### Research Repository
 
@@ -30,13 +30,29 @@ https://github.com/MariiCuadros/AIO-CODE-KNOWLEDGE
 
 ## Research Approach
 
-Marii Cuadros approaches AIO CODE as an applied and experimental process.
+Marii Cuadros approaches AIO CODE as an applied and experimental research process.
 
-The methodology is based on:
+The methodology follows an iterative cycle:
 
 **Observation → Connection → Hypothesis → Experiment → Result → Pattern → System**
 
-The research is documented publicly to preserve the chronology of the experiment and distinguish observed results from assumptions or hypotheses.
+The research is documented publicly to preserve the chronology of the experiment, record methodological decisions, and distinguish observations from interpretations.
+
+## Digital and Creative Areas
+
+Marii Cuadros' work currently intersects several areas:
+
+- Digital strategy
+- Community management
+- Social media
+- Personal branding
+- Music curation
+- DJing
+- Artificial intelligence
+- Digital entity research
+- Structured data
+- Generative Engine Optimization (GEO)
+- Artificial Intelligence Optimization (AIO)
 
 ## Official Profiles
 
@@ -56,6 +72,16 @@ The research is documented publicly to preserve the chronology of the experiment
 - Pinterest: https://pinterest.com/mariicuadros
 - Spotify: https://open.spotify.com/user/mariicuadros
 - YouTube: https://www.youtube.com/@mariicuadros
+
+## Relationship to AIO CODE
+
+Marii Cuadros is the creator and researcher behind AIO CODE.
+
+**Marii Cuadros** represents the person and digital entity being documented.
+
+**AIO CODE** represents the experimental research framework and technical knowledge base developed through the project.
+
+This distinction is maintained intentionally within the documentation.
 
 ---
 
