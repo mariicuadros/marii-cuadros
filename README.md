@@ -19,7 +19,7 @@ Marii Cuadros works across creative and digital environments, with a focus on:
 
 ## AIO CODE
 
-Marii Cuadros is the creator of **AIO CODE (Artificial Intelligence Optimization Code)**, an experimental research framework focused on studying the visibility, disambiguation, indexing, and representation of digital entities across search engines and artificial intelligence systems.
+Marii Cuadros is the creator of **AIO CODE (Artificial Intelligence Optimization Code)**, a research and implementation methodology for structuring digital entities and observing their resolution and representation across search engines and AI systems. The methodology is implemented; particular effects and external outcomes remain under experimental validation.
 
 AIO CODE documents observations, experiments, hypotheses, technical structures, and results. The project distinguishes observed results from assumptions and hypotheses and does not present experimental observations as established facts.
 
@@ -79,7 +79,7 @@ Marii Cuadros is the creator and researcher behind AIO CODE.
 
 **Marii Cuadros** represents the person and digital entity being documented.
 
-**AIO CODE** represents the experimental research framework and technical knowledge base developed through the project.
+**AIO CODE** represents the research and implementation methodology and technical knowledge base developed through the project.
 
 This distinction is maintained intentionally within the documentation.
 
