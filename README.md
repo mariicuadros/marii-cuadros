@@ -1,88 +1,34 @@
-# Marii Cuadros
+# Marii Cuadros — Digital creator and founder of AIO CODE
 
-Marii Cuadros is a Venezuelan digital creator, digital strategist, Community Manager, music curator, and independent researcher based in Colombia.
+Marii Cuadros (MC-001) is a Venezuelan digital strategist, creator, music curator and independent researcher based in Colombia. Her work connects digital strategy, community management, creative production, music and research on digital identity in an AI-driven environment.
 
-Her work combines digital strategy, community management, social media, music curation, DJing, personal branding, creative experimentation, and research into emerging digital technologies.
+## AIO CODE — Digital Entity Operating System
 
-## Professional Profile
+Marii Cuadros is the creator of **AIO CODE (AIO-001)**, a Digital Entity Operating System (DEOS) for organizing canonical digital identities, source-linked claims, entity relationships, content, evidence, provenance and observation.
 
-Marii Cuadros works across creative and digital environments, with a focus on:
+AIO CODE includes a research and implementation methodology as one component. The current project is **developing a creator-focused SaaS direction**, but is not claiming a finished or generally available SaaS product.
 
-- Digital Strategy
-- Community Management
-- Social Media Management
-- Personal Branding
-- Music Curation
-- DJing
-- Digital Research
-- Artificial Intelligence and emerging technologies
+AIO CODE cannot control third-party search or AI systems and does not guarantee indexing, recognition, ranking, citation or recommendation.
 
-## AIO CODE
+- [AIO CODE official entity home](https://aio-code.vercel.app/)
+- [Public methodology](https://aio-code.vercel.app/metodologia/)
+- [Creator-focused SaaS vision](https://aio-code.vercel.app/para-creadores/)
+- [Marii Cuadros canonical professional profile](https://aio-code.vercel.app/entities/marii-cuadros/)
+- [Public approved evidence search](https://aio-code.vercel.app/rag/)
 
-Marii Cuadros is the creator of **AIO CODE (Artificial Intelligence Optimization Code)**, a research and implementation methodology for structuring digital entities and observing their resolution and representation across search engines and AI systems. The methodology is implemented; particular effects and external outcomes remain under experimental validation.
+## Professional interests
 
-AIO CODE documents observations, experiments, hypotheses, technical structures, and results. The project distinguishes observed results from assumptions and hypotheses and does not present experimental observations as established facts.
+Digital strategy, community management, creative direction, content production, music curation, digital research, artificial intelligence, creator identity, provenance and information retrieval.
 
-### Research Repository
+## Selected official profiles
 
-**AIO CODE Knowledge:**  
-https://github.com/MariiCuadros/AIO-CODE-KNOWLEDGE
+- [Instagram](https://www.instagram.com/mariicuadros/)
+- [YouTube](https://www.youtube.com/@mariicuadros)
+- [Blogger](https://mariicuadros.blogspot.com/)
+- [Medium](https://medium.com/@mariicuadros)
+- [Substack](https://substack.com/@mariicuadros)
+- [Hugging Face](https://huggingface.co/mariicuadros)
 
-## Research Approach
+## Public/private boundary
 
-Marii Cuadros approaches AIO CODE as an applied and experimental research process.
-
-The methodology follows an iterative cycle:
-
-**Observation → Connection → Hypothesis → Experiment → Result → Pattern → System**
-
-The research is documented publicly to preserve the chronology of the experiment, record methodological decisions, and distinguish observations from interpretations.
-
-## Digital and Creative Areas
-
-Marii Cuadros' work currently intersects several areas:
-
-- Digital strategy
-- Community management
-- Social media
-- Personal branding
-- Music curation
-- DJing
-- Artificial intelligence
-- Digital entity research
-- Structured data
-- Generative Engine Optimization (GEO)
-- Artificial Intelligence Optimization (AIO)
-
-## Official Profiles
-
-- GitHub: https://github.com/MariiCuadros
-- Hugging Face: https://huggingface.co/MariiCuadros
-- Medium: https://medium.com/@mariicuadros
-- Blogger: https://mariicuadros.blogspot.com/
-- Substack: https://substack.com/@mariicuadros
-- X: https://x.com/mariicuadros
-- Instagram: https://www.instagram.com/mariicuadros
-- Facebook: https://www.facebook.com/mariicuadros
-- Threads: https://www.threads.net/@mariicuadros
-- TikTok: https://www.tiktok.com/@mariicuadros1
-- Bluesky: https://bsky.app/profile/mariicuadros.bsky.social
-- Reddit: https://www.reddit.com/user/mariicuadros
-- Quora: https://www.quora.com/profile/Marii-Cuadros
-- Pinterest: https://pinterest.com/mariicuadros
-- Spotify: https://open.spotify.com/user/mariicuadros
-- YouTube: https://www.youtube.com/@mariicuadros
-
-## Relationship to AIO CODE
-
-Marii Cuadros is the creator and researcher behind AIO CODE.
-
-**Marii Cuadros** represents the person and digital entity being documented.
-
-**AIO CODE** represents the research and implementation methodology and technical knowledge base developed through the project.
-
-This distinction is maintained intentionally within the documentation.
-
----
-
-*This profile is part of the public documentation of the AIO CODE research experiment.*
+This repository presents professional identity only. AIO CODE's backend, Alpha agent implementation, internal security governance, private contracts and operating procedures are not published here. The official source for current system definitions is https://aio-code.vercel.app/.
