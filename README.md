@@ -11,7 +11,7 @@ AIO CODE includes a research and implementation methodology as one component. Th
 AIO CODE cannot control third-party search or AI systems and does not guarantee indexing, recognition, ranking, citation or recommendation.
 
 - [AIO CODE official entity home](https://aio-code.vercel.app/)
-- [Public methodology](https://aio-code.vercel.app/metodologia/)
+- [AIO CODE canonical entity profile](https://aio-code.vercel.app/entities/aio-code/)
 - [Creator-focused SaaS vision](https://aio-code.vercel.app/para-creadores/)
 - [Marii Cuadros canonical professional profile](https://aio-code.vercel.app/entities/marii-cuadros/)
 - [Public approved evidence search](https://aio-code.vercel.app/rag/)
@@ -25,7 +25,7 @@ Digital strategy, community management, creative direction, content production, 
 - [Instagram](https://www.instagram.com/mariicuadros/)
 - [YouTube](https://www.youtube.com/@mariicuadros)
 - [Blogger](https://mariicuadros.blogspot.com/)
-- [Medium](https://medium.com/@mariicuadros)
+- [Medium](https://medium.com/@mariicuadros1)
 - [Substack](https://substack.com/@mariicuadros)
 - [Hugging Face](https://huggingface.co/mariicuadros)
 
